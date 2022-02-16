@@ -85,3 +85,6 @@ body {
         transform: rotate(calc((120deg * var(--i)) + 360deg ));
     }
 }
+h1 {    
+    color: red;
+}
